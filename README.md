@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Joana-Marie-C-Razon
 - 👀 I’m interested in VB, MySql
-- 🌱 I’m currently learning Java script 
+- 🌱 I’m currently learning Java script
+- 🍳 having skills in Visual basic, c++, c#
 - 📫 How to reach me on 21-37618@g.batstate-u.edu.ph 
 
 <!---
